@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/PA-Today/static/css/main.e615bace.chunk.css",
+    "main.js": "/PA-Today/static/js/main.14c686b1.chunk.js",
+    "main.js.map": "/PA-Today/static/js/main.14c686b1.chunk.js.map",
+    "runtime-main.js": "/PA-Today/static/js/runtime-main.2b9d4537.js",
+    "runtime-main.js.map": "/PA-Today/static/js/runtime-main.2b9d4537.js.map",
+    "static/js/2.de167c2e.chunk.js": "/PA-Today/static/js/2.de167c2e.chunk.js",
+    "static/js/2.de167c2e.chunk.js.map": "/PA-Today/static/js/2.de167c2e.chunk.js.map",
+    "index.html": "/PA-Today/index.html",
+    "precache-manifest.a6fcc48920e71277d805e147e9e97147.js": "/PA-Today/precache-manifest.a6fcc48920e71277d805e147e9e97147.js",
+    "service-worker.js": "/PA-Today/service-worker.js",
+    "static/css/main.e615bace.chunk.css.map": "/PA-Today/static/css/main.e615bace.chunk.css.map",
+    "static/js/2.de167c2e.chunk.js.LICENSE.txt": "/PA-Today/static/js/2.de167c2e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2b9d4537.js",
+    "static/js/2.de167c2e.chunk.js",
+    "static/css/main.e615bace.chunk.css",
+    "static/js/main.14c686b1.chunk.js"
+  ]
+}
