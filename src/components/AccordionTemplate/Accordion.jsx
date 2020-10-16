@@ -26,6 +26,7 @@ function Accordion(props) {
           <img className='accordion__image' src={props.image} />
         </div>
         <div className='accordion__text'
+        style={{color: `${props.textcolor}`}}
         dangerouslySetInnerHTML={{ __html: props.content }} />
       </div>
     </div>
