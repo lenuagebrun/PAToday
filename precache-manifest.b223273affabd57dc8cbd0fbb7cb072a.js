@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f97c50094dc0b2bca628c8c3bee887a4",
+    "revision": "2bd91d704d6234985aecca04424f8d16",
     "url": "/PAToday/index.html"
   },
   {
-    "revision": "49d2544ebaeb14a787f4",
-    "url": "/PAToday/static/css/main.4f7c8954.chunk.css"
+    "revision": "803946681b125ae030ec",
+    "url": "/PAToday/static/css/main.3f4252e7.chunk.css"
   },
   {
     "revision": "23725e45139655f286f6",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/PAToday/static/js/2.de167c2e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "49d2544ebaeb14a787f4",
-    "url": "/PAToday/static/js/main.1df29d38.chunk.js"
+    "revision": "803946681b125ae030ec",
+    "url": "/PAToday/static/js/main.c4a97eea.chunk.js"
   },
   {
     "revision": "dfe166e5ba72a0b14fd9",
