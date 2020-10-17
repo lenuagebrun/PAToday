@@ -7,7 +7,7 @@ function Accordions() {
       <Accordion
         title="Story of P-A"
         image="https://i.imgur.com/btSGJZU.png"
-        content="Pierre-Alexandre is a french canadian boi who is just starting out in the world of coding"
+        content="Pierre-Alexandre is a french canadian boi who is just starting out in the world of coding.<br />Started as a salesman while studying in mechanical engineering, P-A always thought computers were his comfort zone and really loved coding as soon as he tried it out.<br />After falling in love with the art of programming, he decided to apply for a coding bootcamp at General Assembly where he gratuated with more than satisfying grades.<br />He is now in search of a job in the field.<br />You will be able to see some of the projects he did below."
         background= 'rgb(226, 173, 255)'
       />
       <Accordion
@@ -22,7 +22,7 @@ function Accordions() {
       <Accordion
         title="The Hedron Archive"
         image="https://deckmaster.info/images/sets/OGW_C.png"
-        content="This project is my first functioning website made with Node, Express and MongoDB. My favourite project I have done so far.
+        content="This project is my first functioning website made with Node, Express and MongoDB. This is the first time I had to work with an API and my favourite project so far.
         <br /><br />
         <a href='https://thehedronarchive.herokuapp.com/' target='_blank'>Check it out</a>
         <br /><br />
