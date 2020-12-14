@@ -21,7 +21,7 @@ function Accordion(props) {
         <p className='accordion__title'>{props.title}</p>
         <Arrow className={`${setRotate}`} width={10} fill={'#777'} />
       </button>
-      <div ref={content} style={{maxHeight: `${setHeight}`, backgroundColor: `${props.background}`}}className='accordion__content'>
+      <div ref={content} style={{maxHeight: `${setHeight}`, backgroundColor: `${props.background}`, backgroundImage: `${props.backgroundImage}`}}className='accordion__content'>
         <div className='accordion__image'>
           <img className='accordion__image' src={props.image} />
         </div>
