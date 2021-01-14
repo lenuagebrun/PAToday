@@ -47,7 +47,7 @@ function Accordions() {
       <Accordion
         title="Coming Soon"
         image="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/b47ae333-6120-4f76-a614-ffad39b897ee/dbciwf4-c68941de-7a4b-47f7-94d7-1a93bae30392.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvYjQ3YWUzMzMtNjEyMC00Zjc2LWE2MTQtZmZhZDM5Yjg5N2VlXC9kYmNpd2Y0LWM2ODk0MWRlLTdhNGItNDdmNy05NGQ3LTFhOTNiYWUzMDM5Mi5naWYifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.v7_BdRJHrfo4F_pGQ2pzGPdw2BdBeVBy6JhpiVT2RO0"
-        content="I am currently working on a project with another programmer and a team of UXDI.<br /> Very excited to put it on here when it is done."
+        content="I am currently working on a project with a small team of programmers and UXDI people.<br /> Very excited to put it on here when it is done."
       />
     </div>
   );
