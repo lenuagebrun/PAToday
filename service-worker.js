@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/PAToday/precache-manifest.33291774f8537783d0c08e74f749cf96.js"
+  "/PAToday/precache-manifest.ba507159e8a8dc137ff95145d08cbed9.js"
 );
 
 self.addEventListener('message', (event) => {
