@@ -1,22 +1,35 @@
 import React from "react";
 import Accordion from "../AccordionTemplate/Accordion";
 
+const styles = {
+  projects: {
+    color: "rgb(231, 231, 231)",
+    margin: "1vh 1vw 1vh 1vw",
+    fontFamily: "Source Code Pro, monospace",
+  },
+};
+
 function Accordions() {
   return (
     <div>
       <Accordion
-        title="Story of P-A"
+        title="P-A in a Nutshell"
         image="https://i.imgur.com/btSGJZU.png"
         content="Hello! My name is Pierre-Alexandre. I am French-Canadian and I'm just starting out in the world of coding.<br />Started as a salesman while studying in mechanical engineering, I always thought computers were my comfort zone and I really enjoyed coding as soon as I tried it out.<br />After falling in love with the art of programming, I decided to apply for a coding bootcamp at General Assembly where I gratuated with more than satisfying grades.<br />I am now in search of a job in the field.<br />You will be able to see some of the projects I've done (and still work on) below."
-        background= 'rgb(226, 173, 255)'
+        background="rgb(226, 173, 255)"
+      />
+      <h3 style={styles.projects}>Projects</h3>
+      <Accordion 
+      title="Wellness" 
+      image="https://i.imgur.com/ur3BKuF.png?1" 
+      content=" Wellness is a small React project I built from a wireframe made by someone in UX design. Still in construction, but very happy about how this one is turning out."
       />
       <Accordion
         title="Hangman Game"
         image="https://i.imgur.com/eAVjTDX.png"
         content="The very first coding project I did. A simple game of hangman that helped me get a grasp on functions, DOM elements and just coding in general. <br /><br />
         <a href='https://hangman-game.lenuagebrun.repl.co/' target='_blank'>Try it yourself!</a><br /><br />
-        Language used: Javascript, HTML, CSS TESTING"
-        background="#ff9176"
+        Language used: Javascript, HTML, CSS"
       />
       <Accordion
         title="The Hedron Archive"
@@ -32,8 +45,8 @@ function Accordions() {
         <a href='https://gafm.herokuapp.com/'
         target='_blank'>Check it out</a><br/ ><br />
         Languages used:Python, Django, PostreSQL, HTML, CSS"
-        background= 'rgb(236, 27, 35)'
-        textcolor='white'
+        background="rgb(236, 27, 35)"
+        textcolor="white"
       />
       <Accordion
         title="Eventer"
@@ -42,8 +55,8 @@ function Accordions() {
         <a href='http://eventer-2020.herokuapp.com/'
         target='_blank'>Check it out</a><br /><br />
         Languages used: React, Node.js, Express, MongoDB/Mongoose, HTML, CSS"
-        background= 'rgb(153, 224, 217)'
-        textcolor='white'
+        background="rgb(153, 224, 217)"
+        textcolor="white"
       />
       <Accordion
         title="Coming Soon"
