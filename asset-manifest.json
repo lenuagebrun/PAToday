@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/PAToday/static/css/main.3f4252e7.chunk.css",
-    "main.js": "/PAToday/static/js/main.4cce80ae.chunk.js",
-    "main.js.map": "/PAToday/static/js/main.4cce80ae.chunk.js.map",
+    "main.js": "/PAToday/static/js/main.12910224.chunk.js",
+    "main.js.map": "/PAToday/static/js/main.12910224.chunk.js.map",
     "runtime-main.js": "/PAToday/static/js/runtime-main.241cf5cd.js",
     "runtime-main.js.map": "/PAToday/static/js/runtime-main.241cf5cd.js.map",
     "static/js/2.de167c2e.chunk.js": "/PAToday/static/js/2.de167c2e.chunk.js",
     "static/js/2.de167c2e.chunk.js.map": "/PAToday/static/js/2.de167c2e.chunk.js.map",
     "index.html": "/PAToday/index.html",
-    "precache-manifest.35c0a8eff54cc06226afe3569d088d1d.js": "/PAToday/precache-manifest.35c0a8eff54cc06226afe3569d088d1d.js",
+    "precache-manifest.41028f658eaabd3eab7c392a86b77ebb.js": "/PAToday/precache-manifest.41028f658eaabd3eab7c392a86b77ebb.js",
     "service-worker.js": "/PAToday/service-worker.js",
     "static/css/main.3f4252e7.chunk.css.map": "/PAToday/static/css/main.3f4252e7.chunk.css.map",
     "static/js/2.de167c2e.chunk.js.LICENSE.txt": "/PAToday/static/js/2.de167c2e.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.241cf5cd.js",
     "static/js/2.de167c2e.chunk.js",
     "static/css/main.3f4252e7.chunk.css",
-    "static/js/main.4cce80ae.chunk.js"
+    "static/js/main.12910224.chunk.js"
   ]
 }
