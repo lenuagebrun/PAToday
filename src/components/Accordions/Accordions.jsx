@@ -15,8 +15,8 @@ function Accordions() {
         image="https://i.imgur.com/eAVjTDX.png"
         content="The very first coding project I did. A simple game of hangman that helped me get a grasp on functions, DOM elements and just coding in general. <br /><br />
         <a href='https://hangman-game.lenuagebrun.repl.co/' target='_blank'>Try it yourself!</a><br /><br />
-        Language used: Javascript, HTML, CSS"
-        background="#d68a8a"
+        Language used: Javascript, HTML, CSS TESTING"
+        background="#ff9176"
       />
       <Accordion
         title="The Hedron Archive"
