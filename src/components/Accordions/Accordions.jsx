@@ -22,7 +22,7 @@ function Accordions() {
       <Accordion 
       title="Wellness" 
       image="https://i.imgur.com/ur3BKuF.png?1" 
-      content=" Wellness is a small React project I built from a wireframe made by someone in UX design. Still in construction, but very happy about how this one is turning out.<br/ >
+      content=" Wellness is a small React project I built from a wireframe made by someone in UX design. Still in construction, but very happy about how this one is turning out.<br/ ><br />
       Languages used: React.js, CSS"
       />
       <Accordion
