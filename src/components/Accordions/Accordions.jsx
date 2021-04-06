@@ -22,14 +22,15 @@ function Accordions() {
       <Accordion 
       title="Wellness" 
       image="https://i.imgur.com/ur3BKuF.png?1" 
-      content=" Wellness is a small React project I built from a wireframe made by someone in UX design. Still in construction, but very happy about how this one is turning out."
+      content=" Wellness is a small React project I built from a wireframe made by someone in UX design. Still in construction, but very happy about how this one is turning out.<br/ >
+      Languages used: React.js, CSS"
       />
       <Accordion
         title="Hangman Game"
         image="https://i.imgur.com/eAVjTDX.png"
         content="The very first coding project I did. A simple game of hangman that helped me get a grasp on functions, DOM elements and just coding in general. <br /><br />
         <a href='https://hangman-game.lenuagebrun.repl.co/' target='_blank'>Try it yourself!</a><br /><br />
-        Language used: Javascript, HTML, CSS"
+        Languages used: Javascript, HTML, CSS"
       />
       <Accordion
         title="The Hedron Archive"
@@ -54,7 +55,7 @@ function Accordions() {
         content="Second group project made with React. This one was a bit ambitious, but I love it still.<br />This was our final course project and we decided to go with a social event platform.<br /> I was in charge of design, API and all of the front-end.<br />I had a great time working with React.<br/ ><br/ >
         <a href='http://eventer-2020.herokuapp.com/'
         target='_blank'>Check it out</a><br /><br />
-        Languages used: React, Node.js, Express, MongoDB/Mongoose, HTML, CSS"
+        Languages used: React.js, Node.js, Express, MongoDB/Mongoose, HTML, CSS"
         background="rgb(153, 224, 217)"
         textcolor="white"
       />
